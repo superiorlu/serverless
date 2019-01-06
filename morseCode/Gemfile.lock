@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    morse-code-rb (0.5.0)
+      thor (~> 0.19)
+      wavefile (~> 1.0)
+    thor (0.20.3)
+    wavefile (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  morse-code-rb
+
+BUNDLED WITH
+   1.17.3
