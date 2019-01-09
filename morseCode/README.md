@@ -10,7 +10,7 @@ npm install serverless -g
 2. Install Gem Files
 
 ```sh
-  bundle install --deployment
+bundle install --deployment
 ```
 3. Deploy to AWS
 
